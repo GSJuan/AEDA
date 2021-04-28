@@ -1,0 +1,15 @@
+con 1000 valores:
+	seleccion: 499500
+	mergesort: 8711
+	heapsort: 18848
+
+con 2000 valores:
+	selección: 1999000
+	mergesort: 19413
+	heapsort: 41721
+
+con 3000 valores:
+	seleccion: 5598500
+	mergesort: 30965
+	heapsort: 66268
+
